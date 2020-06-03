@@ -3,4 +3,4 @@
 # Un-ignore all of subtree
 !/codigos/
 !.gitignore
-!cam_ov7670_s6.xise
+!*.xise
